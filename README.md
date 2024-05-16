@@ -200,4 +200,4 @@ show full_adder
 1. **FOR Yosys**_ --> [CLICK HERE](https://github.com/YosysHQ/yosys)   
 
 
-    >                            THANK YOU
+    >         THANK YOU
