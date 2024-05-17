@@ -3,15 +3,15 @@
 ##  _Contents:-_  
 - [BASIC CONCEPTS](##1.-BASIC-CONCEPTS)
   - [HALF ADDER](###1.a-HALF-ADDER:-)
-    - [CIRCUIT DIAGRAM](####1.a.1-CIRCUIT-DIAGRAM:-)
-    - [TRUTH TABLE](####1.a.2-TRUTH-TABLE:-)
+    - [CIRCUIT DIAGRAM](####1.a.1-`CIRCUIT-DIAGRAM:-`)
+    - [TRUTH TABLE](####1.a.2-`TRUTH-TABLE:-`)
   - [FULL ADDER](###1.b-FULL-ADDER:-)
-    - [CIRCUIT DIAGRAM](####1.b.1-CIRCUIT-DIAGRAM:-)
+    - [CIRCUIT DIAGRAM](####1.b.1-`CIRCUIT-DIAGRAM:-`)
     - [TRUTH TABLE](####1.a.2-TRUTH-TABLE:-)
-- [TOOLS](##2-TOOLS)
+- [TOOLS](##2.-TOOLS:-)
 - [SIMULATION](##3.-SIMULATION:-)  
-- [BEHAVIORAL TO RTL LEVEL SYNTHESIS](##4.-BEHAVIORAL-TO-RTL-LEVEL-SYNTHESIS )
-- [Logic Gate Level to Physical Gate Level Synthesis](##5-Logic-Gate-Level-to-Physical-Gate-Level-Synthesis)
+- [BEHAVIORAL TO RTL LEVEL SYNTHESIS](##4.-BEHAVIORAL-TO-RTL-LEVEL-SYNTHESIS)
+- [Logic Gate Level to Physical Gate Level Synthesis](##5.-Logic-Gate-Level-to-Physical-Gate-Level-Synthesis)
 - [SYNTHESIS BY USING SCRIPT FILE (OPTIONAL):-](##6.-SYNTHESIS-BY-USING-SCRIPT-FILE-(OPTIONAL):-)
 - [PHYSICAL GATE LEVEL SYNTHESIS](##7.-PHYSICAL-GATE-LEVEL-SYNTHESIS:-)
 - [REFERENCES](##8.-REFERENCES:-)
@@ -201,3 +201,4 @@ show full_adder
 
 
     >         THANK YOU
+![REPO VIEWS](https://komarev.com/ghpvc/?username=HRITAM-MITRA&color=green&style=plastic)
