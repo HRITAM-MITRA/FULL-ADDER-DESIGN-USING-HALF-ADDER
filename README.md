@@ -175,6 +175,10 @@ write_verilog -noattr synth_2.v
  - We can use a **script file** by which we can execute the whole process by using just a single command.  
  - _**CHECK THIS FILE**_ --> [script.v](Synthesis/script.v)  
 
+```
+script script.v
+```
+
 ---  
 ##7. PHYSICAL GATE LEVEL SYNTHESIS:-  
 ---  
